@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @k4nnguyen
-- 👀 I’m interested in software engineering and app developer
-- 🌱 I’m currently learning c++, JS, PY 
+- 👀 I’m interested in Software Engineering and App Developer
+- 🌱 I’m currently learning C++, JS, PY 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
