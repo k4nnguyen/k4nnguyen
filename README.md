@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, My name is Nguyễn Kim An</h1>
-<h3 align="center">A passionate backend developer and AI Engineer from Vietnam</h3>
+<h3 align="center">A passionate Backend Developer and AI Engineer from Vietnam</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=k4nnguyen&label=Profile%20views&color=0e75b6&style=flat" alt="k4nnguyen" /> </p>
 
